@@ -1,0 +1,30 @@
+%MUSE2
+T: 欢送
+C: 刘北茂
+C: 1956年春
+M: 2/4
+L: 1/8
+I: 较慢的快板 热烈欢乐
+K: F
+V: 1 style=jianpu
+[V: 1]
+%%begintext
+      演奏提示：该小曲短小，旋律活泼。演奏中注意节奏重音、连顿弓的应用，
+                既表达了欢送亲人时的热烈场面，又表现了与亲人分别时的依恋
+                之情。
+%%endtext
+%%skip 1cm
+!st!!DOWNBOW!A,3/2!st!C/ !st!A,!st!C |!st!A,3/2!st!C/ !st!A,!st!C |(!@y'10'$f'宋体'$s'15'二!!$f'Maestro'$s'40'\080!A/!@y'10'$f'宋体'$s'15'四!A/A/G/) (!st!E!st!D |!st!C!st!A, C)|(!@y'6'$f'宋体'$s'15'0!A,/C/A,/C/) (!st!D!st!E |!st!G!st!A !st!G2)|
+(!@y'10'$f'Maestro'$s'40'\070!G3/2G3/2)(cA)|(G/c/A/G/) !@y'10'$f'宋体'$s'15'0!E2|(G/A/G/E/) (D>E)|(D/E/D/A,/) C2|(D>A,) CC/C/|(DA,) C2|
+(!@y'10'$f'Maestro'$s'40'\080!D3/2E/2)GG/G/|(DE) G|(!$f'MAESTRO'$s'40'\070!c3/2c)(G/c/A/G/)|!st!!ATT!E3/2!st!G/ !st!!ATT!E3/2!st!G/ |(!$f'Maestro'$s'40'\070!C/C/E/G/) (D/E/D/C/)|
+!$f'MAESTRO'$s'40'\080!A,3/2A,A,>C|!$f'MAESTRO'$s'40'\070!D (D2 E)|(!$f'Maestro'$s'40'\080!G G2 A)|(!@y'10'$f'宋体'$s'15'四!c/!@y'10'$f'宋体'$s'15'二!A/!@y'10'$f'宋体'$s'15'一!c/!@y'10'$f'宋体'$s'15'二!d/ )(!@y'10'$f'宋体'$s'15'三!e/d/e/!@y'10'$f'宋体'$s'15'四!g/ )|!$f'MAESTRO'$s'40'\102!dd Zg|(!$f'MAESTRO'$s'40'\070!e/g/!@y'10'$f'宋体'$s'15'四!e/d/) (c/d/e/!@y'10'$f'宋体'$s'15'四!g/ )|
+(d/!@y'10'$f'宋体'$s'15'四!g/e/d/) (c/e/d/c/)|(!@y'10'$f'宋体'$s'15'二!A/!@y'10'$f'宋体'$s'15'四!c/A/G/) (E/D/E/G/)|!$f'MAESTRO'$s'40'\102!AA Z!@y'10'$f'宋体'$s'15'四!!$f'MAESTRO'$s'40'\070!c |(!@y'10'$f'宋体'$s'15'二!!$f'MAESTRO'$s'40'\080!A/!@y'10'$f'宋体'$s'15'四!c/A/G/) (!@x'10'@y'10'$f'宋体'$s'15'渐强!E/G/E/D/)|
+(C/D/E/G/) (D/E/D/C/)|!$f'MAESTRO'$s'40'\102!A,A, Z!$f'MAESTRO'$s'40'\070!C |(!@x'10'@y'10'$f'宋体'$s'15'渐弱!D3/2E) (D!TRILL!C )|!@x'15'@y'10'$f'宋体'$s'15'稍转慢!!$f'Maestro'$s'40'\080!A,3C2|A,4|(!@y'10'$f'宋体'$s'15'四!c3/2E) G!@y'10'$f'宋体'$s'15'三!B |
+A2>B2|A!TRILL!G (EG)|(!sanpie!!$f'MAESTRO'$s'40'\102!A4|(!sanpie!A4)|A)B A(A/!$f'MAESTRO'$s'40'\080!B/ )|!$f'MAESTRO'$s'40'\070!AG !@y'10'$f'宋体'$s'15'一!!$f'MAESTRO'$s'40'\080!F!@y'10'$f'宋体'$s'15'一!G |A/B/A/G/ !@y'10'$f'宋体'$s'15'一!^F!@y'10'$f'宋体'$s'15'一!G |
+!@y'10'$f'宋体'$s'15'一!^F!@y'10'$f'宋体'$s'15'一!G A/B/A/G/|!@y'10'$f'宋体'$s'15'一!!$f'MAESTRO'$s'40'\070!^F/!@y'10'$f'宋体'$s'15'一!G/A/B/ G/A/B|AB (!sanpie!!$f'MAESTRO'$s'40'\102!d |(!sanpie!d4)|d)!sanpie!e d(d/e/)|
+!$f'MAESTRO'$s'40'\070!dc !@y'10'$f'宋体'$s'15'二!B!@y'10'$f'宋体'$s'15'一!d |(!@y'10'$f'宋体'$s'15'一!c/!@y'10'$f'宋体'$s'15'二!d/)(!@y'10'$f'宋体'$s'15'一!c/!@y'10'$f'宋体'$s'15'一!B/ )!@y'10'$f'宋体'$s'15'二!A!@y'10'$f'宋体'$s'15'三!B |(A/B/)(A/G/) (!@y'10'$f'宋体'$s'15'一!^F/!@y'10'$f'宋体'$s'15'二!A/)(!@y'10'$f'宋体'$s'15'一!G/!@y'10'$f'宋体'$s'15'一!^F/ )|(E/^F/)(E/D/) (C/D/)!@y'10'$f'宋体'$s'15'一!B, |
+A,2>G2|E>D (C/D/)B,|A,4|(!@x'9'@y'10'$f'宋体'$s'15'原速!A/c/A/G/) (!st!E!st!D |!st!C!st!A, !st!C2)|
+(!@x'9'@y'10'$f'宋体'$s'15'渐强!A,/C/A,/C/) (!st!D3/2!st!E/ |!st!G!st!A !st!G2)|(!$f'MAESTRO'$s'40'\070!G3/2A) (cA)|(G/c/A/G/) E2|(G/A/G/E/) (DE)|(D/E/D/A,/) C2|
+(D>A,) CC/C/|(DA,) C2|(!$f'MAESTRO'$s'40'\080!D3/2E) GG/G/|(DE) G2|(!ATT!!$f'MAESTRO'$s'40'\070!c3/2A) (G/c/A/G/)|!st!!$f'MAESTRO'$s'40'\080!E3/2!st!G/ !st!E3/2!st!G/ |
+(!$f'MAESTRO'$s'40'\070!C/D/E/G/) (D/E/D/C/)|!st!!$f'MAESTRO'$s'40'\080!A,3/2!st!C/ !st!A,3/2!st!C/ |!$f'MAESTRO'$s'40'\070!D (D2 E)|G (G2 A)|(!ATT!C3/2D) (EG)|(D>E) (D!TRILL!C )|
+(!@x'16'@y'10'$f'宋体'$s'15'稍转慢!A,3C2)|A,4|!@x'16'@y'10'$f'宋体'$s'15'再转慢!!$f'MAESTRO'$s'40'\102!A3!@y'10'$f'宋体'$s'15'四!c |GE G!@y'10'$f'宋体'$s'15'三!B |(!sanpie!!$f'Maestro'$s'40'\196!A4|!sanpie!A)Z !ATT!AZ|]

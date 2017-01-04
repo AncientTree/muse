@@ -1,0 +1,45 @@
+%MUSE2
+T: 灰姑娘
+T: 郑钧（演唱）
+C: 郑钧（词曲）
+C: 刘传（编配）
+C: 蒋勇（录入）
+M: 4/4
+L: 1/8
+K: G % 1 sharps
+%%showfinger yes
+%%gchord D=1;X,X,0,2,3,2
+%%gchord G7=1;3,2,0,0,0,1
+%%gchord C=1;X,3,2,0,1,0
+%%gchord A=1;X,0,2,2,2,0
+%%gchord Em=1;0,2,2,0,0,0
+%%gchord G=1;3(3),2(2),0,0,0,3(4)
+V:1 name="吉他伴奏" style=tab play=1 instrument=24 volumn=46 bracket=2
+V:2 name="主旋律" style=jianpu play=1 instrument=0 volumn=64
+[V:1]
+"G"fxcx/bx/fx/ax/bx/cx/ fxcx/bx/fx/ax/bx/cx/ |:fxcx/bx/fx/ax/bx/cx/  "Em"fxcx/bx/fx/ax/bx/cx/ |
+"A"excx/bx/ex/ax/bx/cx/  "G"fxcx/bx/fx/ax/bx/cx/ |fxcx/bx/fx/ax/bx/cx/  "Em"fxcx/bx/fx/ax/bx/cx/ |
+"A"excx/bx/ex/ax/bx/cx/    "G"fxcx/bx/fx/ax/e0/e2/ |"C"excx/bx/ex/ax/bx/cx/ "G"fxcx/bx/fx/ax/e0/e2/ |
+"C"excx/bx/ex/ax/bx/cx/ "G"fxcx/bx/f2c0/b0/ |"A"excx/bx/ex/ax/bx/cx/  "G"fxcx/bx/fx/ax/bx/cx/ |
+"A"ex/cx/bx/ax/"C"ex/cx/bx/ax/    "G"fxcx/bx/fx/ax/bx/cx/ |"D"dxcx/bx/dx/ax/bx/cx/"C"excx/bx/ex/ax/bx/cx/ :|"G7"fxcx/bx/fx/ax/bx/cx/ |"Em"fxcx/bx/fx/ax/bx/cx/  "A"fxcx/bx/fx/ax/bx/cx/ |
+"C"fxcx/bx/fx/ax/bx/cx/ "G7"e0cx/bx/fx/ax/bx/cx/ |"Em"fxcx/bx/fx/ax/bx/cx/ "A"excx/bx/ex/ax/bx/cx/ |
+"C"excx/bx/ex/ax/bx/cx/  "D"dxcx/bx/dx/ax/bx/cx/ |"C"excx/bx/ex/ax/bx/cx/ "D"dxcx/bx/dx/ax/bx/cx/ |
+"G"fxcx/bx/fx/ax/bx/cx/ "Em"fxcx/bx/fx/ax/e0/e2/ |"C"excx/bx/ex/ax/bx/cx/ "G"fxcx/bx/fx/ax/e0/e2/ |
+"C"excx/bx/ex/ax/bx/cx/ "G"fxcx/bx/fx/ax/bx/cx/ |"G"fxcx/bx/fx/ax/bx/cx/ fxcx/bx/fx/ax/e0/e2/ |
+"C"excx/bx/ex/ax/bx/cx/        "G"fxcx/bx/fx/ax/bx/cx/ |fxcx/bx/fx/ax/bx/cx/ B[cx*4ax*4] |]
+
+
+[V:2]
+z8|:CC/C/ (C/G/)(G/D/ ){D}E2C2|D3/2C/ E(D/C/ )C2z>C |CC/C/ (C/G/)G/D/ {D}E2 zC/D/ |D3/2C/ A,C C4|
+w: 怎么会迷*上*你*我在问自*己我什么都能*放*弃居然今天难离去
+w: 我总在伤*你的心我总是很残*忍我让你*别当*真*因为我不敢相信
+F>F F3/2D/ E2zC/D/ |F>F FG E2>z2|D3/2C/ D/E/D/C/ C3z|D>C A,(D/C/) C2>z2
+w: 你并不美丽但是你可爱至极唉呀灰*姑*娘我的灰姑*娘
+w: 你如此美丽而且你可爱至极唉呀灰*姑*娘我的灰姑*娘
+|z2z2z2z3/2C/ :|Z2 Z2|A,>A, A,(E/D/) D2 ZD/E/|F>F (D/E/)(D/C/) C2 Z2|
+w: 我也许你不*曾想到我的心*会*疼
+A,>A, A,(E/D/) D3 D/E/|F>E F(F/G/) G4|A>A A>F G2>Z2|G>G G>D E2 ZD/E/|
+w: 如果这是*梦我愿长醉不愿*醒我曾经忍耐我如此等待也许
+F>F FG E2 ZD/E/|F>F FG E4|Z6 ZD/E/|F>F FG (E4|E4)Z4|]
+w: 在等你到来也许在等你到来也许在等你到来*
+

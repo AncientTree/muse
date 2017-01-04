@@ -1,0 +1,71 @@
+%MUSE2
+T: 罗密欧与朱丽叶
+T: (理查德·克莱德曼钢琴曲)
+C: 尼诺·罗达（曲）
+C: 风华艺校（编曲）
+I: 伴奏吉他将变调夹夹于三品
+M: 4/4
+L: 1/8
+K: Eb
+V:1 style=tab name=伴奏吉他 play=1 instrument=25 volumn=20 bracket=3
+V:2 style=tab name=独奏吉他 play=1 instrument=25 volumn=64
+V:3 style=jianpu name=主旋律 play=1 volumn=40
+%%indent 2.5cm
+%%showfinger yes
+%% continueall yes
+[V: 1]
+"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"F"fxexcxexcxexe0e3|"Dm"dxcxaxcxaxcxaxcx|"Em"fxexcxexcxexcxex|
+[V: 2]
+z*2 z*2 zc5c8c7|c5*4zd5d8d5|{d8-S-}d10*6d10*2|{c8-S-}c10*8|c7*6d5*2|
+[V: 3]
+z2z2zA cB |E4zE GE |{G}A6A2|d8|B6E2|
+
+[V: 1]
+"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"F"fxexcxexcxexcxex|
+[V: 2]
+c8*3 c7 c5d8(3:0:3c8c7c5|d8*8|{d8-S-}d10*4z{a6-S-}a8a11*3/2a10/2|b8*4zb8b11*3/2b8/2|{b11-S-}b13*4zb13b11*3/2b9/2|
+[V: 3]
+c3B AG (3:0:3cB A |G8|{G}A4z{G}A c3/2B/ |E4zE G3/2E/ |{G}A4zA G3/2F/ |
+
+[V: 1]
+"Em"fxexcxexcxexcxex|"Dm"dxcxaxcxaxcxaxcx|"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"F"fxexcxexfxexcxex|
+[V: 2]
+{b9-S-}b11*4zb11b9*3/2{b8-H-b9-P-}b8/2|(c10*2c10*2)-c10b8/2c10/2c8c10|{c10-S-}c12*4z{a6-S-}a8a11*3/2a10/2|b8*4zb8b11*3/2b8/|{b11-S-}b13*6zb13|
+[V: 3]
+{F}G4zG F3/2{EF}E/ |(D2(D2)D)E/D/ CD |{D}E4z{G}A c3/2B/ |E4zE G3/2E/ |{G}A6zA |
+
+[V: 1]
+"Dm"dxcxaxcxaxcxbxcx|"Em"fxexcxexcxexcxex|"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"Am"exdxbxdxB[axbxcx*4]|
+[V: 2]
+{a11-S-}a13*6za13|a10*6zb8|a11*3a10 a8b11(3:0:3a11a10a8|b11*6zb11|{b11-S-}b13*8|
+[V: 3]
+{c}d6zd |B6zE |C3B AG (3:0:3cB A |G6zG |{G}A8|
+
+[V: 1]
+"Am"exdxbxdxbxdxbxdx|"F"fxexcxdx/2ex/2cxdx/ex/cxdx/ex/|"Em"fxexcxdx/2ex/2cxdx/ex/cxdx/ex/|"Dm"dxcxbxcxbxcxbxcx|"F"fxexcxdx/2ex/2cxdx/ex/cxdx/ex/|
+[V: 2]
+b8c8b8*3b8 b8b9|b9*6zb9|b11b8(b11*2b11*2)-b11b11|b11a8(a8*2a8*2)-a8a8|(3:0:3a8b11b9a8*4c10*2|
+[V: 3]
+EC E3E EF |F6zF |GE (G2(G2)G)G |GA (A2(A2)A)A |(3:0:3AG F E4D2|
+
+[V: 1]
+"Am"exdxbxdxbxdxbxdx|"Em"fxexcxexcxexcxex|"F"dxcxaxbxaxbxaxbx|"Em"dxcxaxbxaxbxaxbx|
+[V: 2]
+{c10-S-}c12*4z{a6-S-}a8a11*3/2a10/|b8*4zb8b11*3/2b8/|{b11-S-}b13*4zb13b11*3/2b9/|{b9-S-}b11*4zb11b9*3/2{b8-H-b9-P-}b8/2|
+[V: 3]
+{D}E4z{G}A c3/2B/ |E4zE G3/2E/ |{G}A4zA G3/2F/ |{F}G4zG F3/2{EF}E/ |
+
+[V: 1]
+"Dm"dxcxbxcxbxcxbxcx|"Am"excxaxcxaxcxaxcx|"Em"dxbxaxbxaxbxaxbx|"F"dxbxcxbxdxbxcxbx|"Dm"dxcxbxcxbxcxbxcx|
+[V: 2]
+(c10*2c10*2)-c10b8/c10/c8c10|{c10-S-}c12*4z{a6-S-}a8a11*3/2a10/|b8*4zb8b11b8|{b11-S-}b13*6zb13|{a11-S-}a13*6za13|
+[V: 3]
+(D2(D2)D)E/D/ CD |{D}E4z{G}A c3/2B/ |E4zE GE |{G}A6zA |{c}d6zd |
+
+[V: 1]
+"Em"dxbxaxbxaxbxaxbx|"Am"excxaxcxaxcxaxcx|"Em"fxbxcxbxfxbxcxbx|"Am"exdxcxbxaxa5a8a12|[a17b17c17*8]|]
+[V: 2]
+a10*6zb8|a11*3a10 a8b11(3:0:3a11a10a8|b11*8|{b11-S-}(b13*8|b13*8)|]
+[V: 3]
+B6zE |c3B AG (3:0:3cB A |G8|({G}A8|A8)|]
+

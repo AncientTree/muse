@@ -1,0 +1,51 @@
+T: 情网
+T: 演唱 张学友
+M: 4/4
+L: 1/8
+C: 伍思凯
+C: 刘虞瑞
+C: 刘传
+C: nkdanfer
+K: C
+V:1 name=吉他伴奏 style=tab clef=standardtab ins=24 vol=40 bracket=2
+V:2 name=主旋律 style=jianpu ins=1 vol=100
+[V:1]
+ L: 1/4
+[b1/e3/][b2*5/2e4*5/2][c2//d2//][c1//d2//][c2//d2//][b0//c1//] |
+[b1*3/2e3*3/2][c2/d2/][b5c5][b3c4] |
+[b1/e3/][b2*5/2e4*5/2][c2//d2//][c1//d2//][c2//d2//][b0//c1//] |
+[b1*3/2e3*3/2][c2/d2/][b5c5][b3c4] |
+[a0*4b1*4c0*4] |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//"Em"ex//cx//bx//cx//ax//cx//bx//cx// |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//ex//cx//bx//cx//ax//cx//bx//cx// |
+ex//cx//bx//cx//ax//cx//bx//cx//"G"fx//cx//bx//cx//ax//cx//bx//cx// |
+"C"ex//cx//bx//cx//ax//cx//bx//cx//ex//cx//bx//cx//ax//cx//bx//cx// |
+"F"ex//cx//bx//cx//"Dm"ax//cx//bx//cx//"C"ex//cx//bx//cx//ax//cx//bx//cx// |
+"G"fx//cx//bx//cx//ax//cx//bx//cx//"Am"ex//cx//bx//cx//ax//cx//bx//cx// |
+ex//cx//bx//cx//ax//cx//bx//cx//"Em"ex//cx//bx//cx//ax//cx//bx//cx// |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//ex//cx//bx//cx//ax//cx//bx//cx// |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//ex//cx//bx//cx//ax//cx//bx//cx// |
+"C"ex//cx//bx//cx//ax//cx//bx//cx//"G7"fx//cx//bx//cx//ax//cx//bx//cx// |
+"C"ex//cx//bx//cx//ax//cx//bx//cx//z*2 |
+ex//cx//bx//cx//ax//cx//bx//cx//"G7"fx//cx//bx//cx//ax//cx//bx//cx// |
+"C"ex//cx//bx//cx//ax//cx//bx//cx//"C7"ex//cx//bx//cx//ax//cx//bx//cx// |
+"F"ex//cx//bx//"Dm"ax//dx//cx//bx//ax//"C"ex//cx//bx//cx//ax//cx//bx//cx// |
+"F"ex//cx//bx//"Dm"ax//dx//cx//bx//ax//"C"ex//cx//bx//cx//ax//cx//bx//cx// |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//"Em"ex//cx//bx//cx//ax//cx//bx//cx// |
+"Am"ex//cx//bx//cx//ax//cx//bx//cx//ex//cx//bx//cx//ax//cx//bx//cx// |
+[V:2]
+c/(^c3/2 c4)A/^G/A/B/ |c3A E2D2|c/(^c3/2 c4)A/^G/A/B/ |c3A E2D2|E'6 z3/2E/ |
+w: ***********************请
+w: ***********************而
+|:A3/2A/ Bc B(A/G/ )GB |A2 E2 z2 z3/2E/ |A3/2A/ Bc dc de |e4z2z3/2e/ |f(f/e/ )dd ee c3/2c/ |
+w: 你再为我点上*一盏烛光因为我早已迷失了方向我掩饰*不住的慌张才
+w: 你是一张无边*无际的网轻易就把我困地网中央我愈陷*愈深愈越迷茫
+d(d/c/ )Bd c(B/A/ )A3/2E/ |A3/2A/ Bc B(A/G/ )GB |A4 z2 z3/2E/2:|A4 z2 zG |c3/2c/ de f(e/d/ )(d/c/)c |
+w: 迫不*及待地张*望深怕这一路是好*梦一场而光情愿就这样守在*你*身
+w: 路走*愈远愈漫*长如何我才能捉住*你眼**************
+c4z2z3/2G/ |c3/2c/ de f(e/d/ )(d/c/)c |E'4 z2 z3/2e/ |a(a/f/ )ff g(g/e/ )e3/2e/ |ff dd ee c3/2E/ |
+w: 旁情愿就这样一辈*子*不忘我打开*爱情这扇*窗却看见长夜日凄凉你
+w: ********************************
+A3/2A/ Bc B(A/G/ )GB |A4 z2 z2 ||
+w: 是否会舍得我*心伤*
+w: **********

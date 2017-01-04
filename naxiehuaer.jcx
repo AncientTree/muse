@@ -1,0 +1,109 @@
+T: 那些花儿
+T: 演唱 朴树
+M: 4/4
+L: 1/8
+C: 朴树
+C: 朴树
+C: beatle
+I: 伤感的
+K: G
+V:1 name=吉他伴奏 style=tab clef=standardtab ins=24 vol=40 bracket=2
+V:2 name=主旋律 style=jianpu ins=1 vol=100
+[V:1]
+ L: 1/4
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+dx/cx/bx/cx/"C"ex/dx/cx/bx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+dx/cx/bx/cx/"C"ex/dx/cx/bx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Bm7"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Bm7"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"ex/dx/cx/bx/bx/dx/cx/dx/ |
+fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+dx/cx/bx/cx/"C"ex/dx/cx/bx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"Em"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"C"ex/dx/cx/bx/bx/dx/cx/dx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ |
+"D/#F"fx/dx/cx/bx/bx/dx/cx/dx/ |
+dx/cx/bx/cx/"C"ex/dx/cx/bx/ |
+"G"fx/dx/cx/bx/bx/dx/cx/dx/ ||
+[V:2]
+G,2 A,(C C)((E E)D) |D2 E(D D)(C C2) |A,2 C(D D)(C C)(G, |G,8) |G,2 A,(C C)(E E)(E |
+w: 那片笑*声**让我想*起*我的那*些*花*在我生*命*每
+w: 有些故*事**还没讲*完*那就算*了*吧*那些心*情*在
+E)(C C)(A A)(G G2) |G2 F(F F)(E E)(C |C)(D D4) z2 |F2 E(C C)(E E2) |G2 E(C C)(D D2) |
+w: *个*角*落*静静为*我*开*着*我曾以*为*我会永*远守
+w: *岁*月*中*已经难*辨*真*假*如今这*里*荒草丛*生没
+G2 E(C C)(D D)(C |A,6) z2 |C2 A,(G, G,)(E E2) |D2 D(D D)(D D2) |E2 D(C C)(D D)(C |
+w: 在她*身*旁**今天我*们*已经离*去*在人海*茫*茫
+w: 有了*鲜*花**好在曾*经*拥有你*们*春秋和*冬*夏
+C4) z2 G2 |E2 D(E E)(C C)(D |D4) z2 G2 |E2 D(E E)(A, A,)(C/2D/2 |C6) z2 |
+w: *她们都老*了*吧*她们在哪*里*呀**
+w: ********************
+G,2 A,(C C)(E E)(D |D6) zD |E2 D(C C)(D D)(C |C6) z2 |A2 G(G G)(G G)(A |
+w: 幸运的*是*我*曾陪她们*开*放**啦*****
+w: ************************
+A2) G(G G)(G G2) |A2 G(G G)(E E)(E |E6) z2 |D2 C(C C)(C C2) |D2 C(C C)(G, G,2) |
+w: *啦***啦***想*她*啦*****啦*****她
+w: **************************
+E2 E(E E)(C C)(D |D6) z2 |A2 G(G G)(G G)(A |A2) G(G G)(G G2) |A2 G(G G)(E E)(E |
+w: 还在*开*吗*啦*****啦**啦***啦***去*呀*
+w: ****************************
+E6) z2 |D2 C(C C)(A, A,2) |G,2 A,(C C)(E E2) ||D2 D(D D)(E E)(C ||C4) z2 G3/2(E/2|
+w: 她们已*经*被风吹*走*散落在*天*涯**嘟*
+w: ***********************
+E)(D D)(E E)(C C)(D |D4) z2 G3/2(E/2|E)(D D)(E E)A, (CD |C6) z2 |G,2 A,(C C)(E E)(D |
+w: ********嘟……**********嘟……***
+w: ***************************
+D6) zD |E2 D(C C)(D D)(C |C6) z2 ||C4 z2 z2 |||2D2 D(D D)(E E)(C |
+w: *嘟……********插在了*天*
+w: ******************
+C4) z2 G2 |E2 D(E E)(C C)(E |D4) z2 G2 |E2 D(E E)(A, A,)(D |C6) z2 |
+w: *她们都老*了*吧**她们还在*开*我
+w: *******************
+G,2 A,(C C)(E E)(D |D6) z2 |E2 D(C C)(D D2) |(C8 |C8) |
+w: 们就*这*样**各自奔*天*涯*
+w: ****************

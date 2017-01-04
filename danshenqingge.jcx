@@ -1,0 +1,91 @@
+T: 单身情歌
+T: 演唱 林志炫
+M: 6/8
+L: 1/8
+C: 陈耀川
+C: 易家扬
+C: johnjy
+K: C
+V:1 name=吉他伴奏 style=tab clef=standardtab ins=24 vol=40 bracket=2
+V:2 name=主旋律 style=jianpu ins=1 vol=100
+[V:1]
+ L: 1/4
+zzz |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[ax*3/2bx*3/2cx*3/2] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"C"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]z/z/ |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"C"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Dm"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Fmaj7"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"E"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"F"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Dm"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Dm"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Fmaj7"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Dm"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"G"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Fmaj7"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Dm"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]"Em"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+"Am"V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//]V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//] |
+V[cx/dx/ex/]V[ax//bx//cx//]U[ax//bx//cx//]V[ax//bx//cx//]U[ax//bx//cx//].V[ax/bx/cx/]z/"G"V[ax/bx/cx/] |
+B[ax*3/2bx*3/2cx*3/2dx*3/2ex*3/2]B[ax*3/2bx*3/2cx*3/2dx*3/2ex*3/2] |
+[V:2]
+z3zEG |A3GAG |E3DED |C3B,CB, |(A,3A,)EG |
+w: *******************
+A3GAG |E3DED |C3B,CG |(A3A3):|EEE EDC |
+w: **************抓不住爱情的
+w: **************为了爱孤军奋
+A3zEG |AAA GA(G |G)(E2E3)|AAA AGE |GGA (ED)D |
+w: 我*总是眼睁睁看她溜*走*世界上幸福的人到处有*为
+w: 斗*早就吃够了爱情的*苦*在爱终失落的人到处有*而
+CCC B,C(B, |B,)(A,2 B,3) :|B,(A,2 A3) |c2c Bc(B |B)(A2A3)|
+w: 何不能算我一*个**个*爱要越挫越*勇*
+w: 我只是其中一***
+A2A GA(G |G)(E2E3)|DDD DCD |E{E}AA A2E |c2c cd(c |
+w: 爱要肯定执*着*每一个单身的人得得看透想爱就别怕伤
+c)(B2(B3)|(B3) (B3) |B3) EAB |ccc cBA |BBB BAG |
+w: *痛****找一个最爱的深爱的相爱的亲爱的
+A2A GE(G |G)(A2A)AB |ccc cBA |BB3/2B/ BA3/2G/ |A2A GAc |
+w: 人来告别单*身*一个多情的痴情的绝情的无情的人来给我伤
+(A3 A3) |ddd dcA |(c(A2)A3)|ddd {D}edA |(c(A2)A)AB |
+w: 痕*孤单的人那么多**快乐的的没几个个***不
+ccc cBA |BBB BAG |A2A GE2|G2(A A3)|c(aA )ABc |
+w: 爱过了错过了留下了单身的我独自唱情歌*情歌**这首
+ccc BAB |BBB BAG |A2A GA(c |(C'3) C'2) (A|(A3) (A3) |
+w: 真心的痴心的伤心的单身情歌谁与我来**和**
+(A3) A3) |zzz zzz |zzz zzz |]
+w: **

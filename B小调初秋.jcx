@@ -1,0 +1,23 @@
+%MUSE2
+T: BÐ¡µ÷³õÇï
+C: Åí
+M: 4/4
+L: 1/8
+K: D
+V: 1 style=tab
+V: 2 style=jianpu 
+
+
+%%gchord Gmaj7=0;3,2,0,0,0,2
+%%gchord Em7=0;0,x,2,4,3,3
+
+[V: 1]
+
+||"Bm"exdxbxcxaxcxbxcx|"F#"fxdxbxcxaxcxbxcx|"Gmaj7"fxdxbxcxaxcxbxcx|"A"exdxbxcxaxcxbxcx|
+"Em7"fxdxbxcxaxcxbxcx|"A"exdxbxcxaxcxbxcx|"Gmaj7"fxdxbxcxaxcxbxcx|"F#"fxdxbxcxaxcxbxcx|
+
+
+[V: 2]
+
+||z2a,2a,c,2(c,|c,)c,c,6|z8|z8|
+z8|z8|z8|z,^b,^b,^b,^b,^b,e2|

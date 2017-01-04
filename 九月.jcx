@@ -1,0 +1,56 @@
+%MUSE2
+T: 九月
+C: 词/曲/编配 彭正伟
+C: 
+M: 4/4
+L: 1/16
+K: C
+V: 1 style=tab name="Guitar"
+V: 2 style=jianpu name="Voice"
+
+%%gchord Amadd9=5;0,0,3,1,0,0
+%%gchord Am/E = 5; x,3,3,1,1,1
+
+[V: 1]
+"Amadd9"ex*2dxcx-cxaxbxcxex*2dxcxbxaxbxcx|"Am/E"ex*2dxcx-cxaxbxcxex*2dxcxbxa8bxcx|
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Dsus2"dx*2cxbxaxbxcxbxdx*2cxbxaxbxcxbx|"Dsus2"[axdx]cxa2cxa3cxb3-S-b5"C(3)"[cx*2ex*2]cxbx-bxaxbxcx|
+
+"Dsus2"dx*2cxbxaxbxcxbxdx*2cxbxaxbxcxbx|"Dsus2"[axdx]cxa2cxa3cxb3-S-b5"C(3)"[cx*2ex*2]cxbx-bx*4|
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Dsus2"dx*2cxbxaxbxcxbxdx*2cxbxaxbxcxbx|"Dsus2"[axdx]cxa2cxa3cxb3-S-b5"C(3)"[cx*2ex*2]cxbx-bxaxbxcx|
+
+"Dsus2"dx*2cxbxaxbxcxbxdx*2cxbxaxbxcxbx|"Dsus2"[axdx]cxa2cxa3cxb3-S-b5"C(3)"[cx*2ex*2]cxbx-bx*4|
+[V: 2]
+z16|z16|
+z2a,, a,, a,,c,2(c,c,)c,2e,e,4|z16|
+w: 大风吹香樟*树风铃
+
+z2e,e,c,a,,2(a,,a,,)a,,2a,,e,,c,a,,2|z16|
+w: 浓厚的雾遮*住你的眼睛
+
+z2d,d,d,d,2d,c,2d,2d,4|z16|
+w: 你闭眼伸出耳朵
+
+z2e,(d,d,)a,,g,,2(a,4a,4)|z16|
+w: 你学*会倾听
+
+z2e,e,e,2d,2(e,4e,4)|z16|
+w: 请你小点声
+
+z2e,e,e,2d,2(e,4e,4)|z16|
+w: 请你小点声
+
+z2d,d,d,2c,2(d,4d,4)|z16|
+w: 求你小点声
+
+z2d,d,d,2c,2(d,4d,4)|z16|
+w: 求你小点声

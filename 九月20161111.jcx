@@ -1,0 +1,117 @@
+%MUSE2
+T: 九月
+C: 词/曲/编配 彭正伟
+M: 4/4
+Q: 1/4=60
+L: 1/16
+K: C
+V: 1 style=tab 
+V: 4 style=tab
+V: 2 style=jianpu 
+V: 3 style=jianpu
+
+%%gchord Amadd9=5;0,0,3,1,0,0
+%%gchord Am/E(5) = 5; x,3,3,1,1,1
+%%gchord Amadd9/E=5; 0,3,3,1,0,0
+%%gchord Cadd9(3) = 3; 1,1,3,3,1,1
+%%gchord Asus4(5) = 5; 1,x,3,3,1,1
+%%gchord Am(5) = 5; 1,3,3,1,1,1
+%%gchord Dsus2(5) = 5; x,1,3,3,1,1
+
+[V: 1]
+
+"Amadd9"ex*2dxcx-cxaxbxcxex*2dxcxbxaxbxcx|"Am(5)"ex*2dxcx-cxaxbxcxex*2dxcxbxa7bxcx|
+
+"Dsus2"dx*2cxbx-bxaxbxcxdx*2cxbxaxbxcxbx|"Dsus2"[axdx]cxa2cxa3cxb3-S-b5"Cadd9(3)"[cx*2ex*2]dxcx-cxaxbxcx|
+
+"E"[fx*2bx*2cx*2]dxcx-cxaxa3-S-a7"Asus4(5)"[fx*3ax*2bx*3]dx-dxaxbxcx|
+
+"Am(5)"[cx*2fx*2]c7*2bx*2ax*2B[fxexdxcxbxax*8]|:
+
+
+
+
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am(5)"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Amadd9"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Am(5)"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|"Dsus2(5)"ex*2dxcxaxbxcxbxex*2dxcxaxbxcxbx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|1"Dsus2(5)"ex*2dxcxaxbxcxbxex*2dxcxaxbxcxbx:|2"Dsus2(5)"ex*2dxcxaxbxcxbx[bxcxex*8]|:
+
+
+
+
+
+"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx:|
+
+
+"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|
+
+"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcxbxaxbxcx|"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|
+
+"Dsus2(5)"ex*2dxcxbxcxdxcxex*2dxcxbxcxdxcx|"Amadd9/E"ex*2dxcxbxaxbxcxex*2dxcx"Am(5)"A[axbxcxdxexfx*4]|
+
+
+
+
+[V: 2]
+z16|z16|z16|z16|z16|z16|
+
+z2a,, a,, a,,c,2(c,c,)c,2e,e,4|z16|
+w: 秋天收敛他*的热情
+
+z2e,2c,2a,,2e,,2a,,(c,c,)a,,3|z16|
+w: 收回知了的声*音
+
+z2d,d,d,d,2d,c,2d,2d,4|z16|
+w: 收到降温的命令
+
+z2(e,2e,)(d,d,d,)g,,2(a,2a,4)|z16|z16|
+w: 以*神**之名
+
+z2e,e,e,2d,2(e,4e,4)|z16|
+w: 请你小点声
+z2d,d,d,2c,2(d,4d,4)|z16|
+w: 请你小点声
+
+z2e,e,e,2d,2(e,4e,4)|z16|
+w: 求你小点声
+
+z2d,d,d,2c,2(d,4d,4)|z16|
+w: 求你小点声
+z16|z16|z16|z16|
+
+z16|z16|z16|z16|
+
+[V: 3]
+@96|z2a,, a,, a,,c,2(c,c,)c,2e,e,4|z16|
+w: 大风吹香樟*树风铃
+
+z2e,e,c,a,,2(a,,a,,)a,,2a,,e,,c,a,,2|z16|
+w: 浓厚的雾遮*住你的眼睛
+
+z2d,d,d,d,2d,c,2d,2d,4|z16|
+w: 你闭眼伸出耳朵
+
+z2e,(d,d,)a,,g,,2(a,4a,4)|@16|
+w: 你学*会倾听
+
+
+[V: 4]
+@*368|b8/-H-b10/b8c10(c9c9)c10(b10*2b10*4b10)c9c7c9|b10b8b6(a8a8)b5(a7*2a7*4a7)c7a5b6|
+
+a7-S-a12a12c12b15*2[c14b15]-S-[b10c9][b10c9*2][b10c9]-S-[c5b6][c5b6*2][c5b6]-S-[c2b3]|[c2b3*4]-[c2b3*2]e4e5-S-e7d7-S-d9-S-d10"泛音"d12*4|
+
+b8/-H-b10/b8c10(c9c9)c10(b10*2b10*4b10)c9c7c9|b10b8b6(a8a8)b5(a7*2a7*4a7)c7a5b6|
+
+a7-S-a3*2a5b3*2[c2b3]-S-[c5b6][c5b6*2][c5b6]-S-[b10c9][b10c9*2][b10c9]-S-[c14b15]|[c14b15*4]-[c14b15*2]e4e5-S-e7d7-S-d9-S-d10"泛音"a12*4|

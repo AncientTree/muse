@@ -1,0 +1,123 @@
+T: 白桦林
+T: （朴树 演唱）
+M: 3/4
+L: 1/8
+C: 朴树
+C: 朴树
+C: 朱迎
+I: 充满深情的
+K: G
+%%showfinger 1
+V:1 name=吉他伴奏 style=tab clef=standardtab ins=24 vol=40 bracket=2
+V:2 name=主旋律 style=jianpu ins=1 vol=100
+[V:1]
+ L: 1/4
+"Em"fx/cx/bx/ax/bx/cx/ |
+ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+"B7"ex/dx/cx/bx/cx/dx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+e0/d1/c2/b1/c2/d1/ |
+"B7"ex/dx/cx/bx/cx/dx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+"B7"ex/dx/cx/bx/cx/dx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+e0/d1/c2/b1/c2/d1/ |
+"B7"ex/dx/cx/bx/cx/dx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"E"ex/cx/bx/ax/bx/cx/ |
+dx/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"G"fx/cx/bx/ax/bx/cx/ |
+e2/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+ex/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"D"dx/cx/bx/ax/bx/cx/ |
+"G"fx/cx/bx/ax/bx/cx/ |
+"Em"ex/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"D"dx/cx/bx/ax/bx/cx/ |
+"G"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+ex/cx/bx/ax/bx/cx/ |
+dx/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+e0/d1/c2/b1/c2/d1/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"E"ex/cx/bx/ax/bx/cx/ |
+dx/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"G"fx/cx/bx/ax/bx/cx/ |
+e2/cx/bx/ax/bx/cx/ |
+"Am"ex/cx/bx/ax/bx/cx/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"ex/cx/bx/ax/bx/cx/ |
+"Em"ex/cx/bx/ax/bx/cx/ |
+ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Adim"e0/d1/c2/b1/c2/d1/ |
+e0/d1/c2/b1/c2/d1/ |
+"B7"ex/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ |
+"Em"fx/cx/bx/ax/bx/cx/ ||
+[V:2]
+A6 |A6 |B4 C'2 |B6 |B6 |
+w: *******
+B4 F'2 |E'2 B2 C'2 |A6 |:E3 FE2 |C4 A,2 |
+w: ******静静的村庄
+w: ******有一天战火
+w: ******噩耗声传来
+w: ******长长的路呀
+B,3C B,A, |E,6|D,3D, D,D, |D,4D,2|E,2A,2B,2|
+w: 飘着白的雪阴霾的天空下鸽子飞
+w: 烧到了家乡小伙子拿起枪奔赴边
+w: 在那个午后心上人战死在远方沙
+w: 就要到尽头那姑娘已经是白发苍
+A,6|A,2^A,2^A,2|A4E2|F3G FD |E6|
+w: 翔白桦树刻着他们的名字
+w: 疆心上人你不要为我担心
+w: 场她默默来到那片白桦林
+w: 苍她时常听他在枕边呼唤
+E3C DE |D4C2|B,3E, ED |A,6|:A,6|
+w: 他们发誓相爱用尽这一生*
+w: 等着我回来在那片白桦林
+w: 望眼欲穿地每天守在那里
+w: 来吧亲爱的来这片白桦林
+A3E EE |F3D A,D |G2GA GA |E6|E3D CB, |
+w: 天空依然阴霾依然有鸽子在飞翔谁来证明
+E,2DC B,A, |B,B, B,D ED |E6|A3B cB |F3D A,D |
+w: 那些没有墓碑的爱情和生命雪依然在下那村庄
+G2A2B2|E6|E3C DE |D4C2|B,3E, ED |
+w: 依然安详年轻的人们消失在白桦
+A,6|A,6 |E6 |C'4 A2 |B3c BA |
+w: 林**啊……******
+E6|D3E D2|B4D2|E2A2B2|A6|
+w: **********
+A,6|A,2^A,2^A,2|A4E2|F3G FD |(E4E)E |
+w: 林在死的时候她喃喃地说我*
+E3C DE |D4C2|B,3E, ED |A,6|A6|
+w: 来了等着我在那片白桦林啊…………
+A6|B4c2|B6|B6|B4f2|
+w: *******
+e2B2c2|A6|:A6|z2z2z2|
+w: *****
